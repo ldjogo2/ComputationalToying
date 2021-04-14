@@ -1,6 +1,8 @@
 This is a compilation of cute puzzles I find online and the solutions I create for them in various languages.
 # Riddles
-### c++ solution1 for Einstein's riddle
+### python3 solution1 for Einstein's riddle
+#### I thought it would be fun to use some natural language processing to see if I can create something that is able to store information
+#### build from it in a logical manner.
 1. In a street there are five houses, painted five different colours. 
 2. In each house lives a person of different nationality 
 3. These five homeowners each drink a different kind of beverage, smoke different brand of cigar and keep a different pet. 
