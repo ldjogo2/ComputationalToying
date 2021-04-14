@@ -1,4 +1,4 @@
-This is a compilation of cute puzzles I find online and the solutions I create for them.
+This is a compilation of cute puzzles I find online and the solutions I create for them in various languages.
 # Riddles
 ### c++ solution1 for Einstein's riddle
 1. In a street there are five houses, painted five different colours. 
