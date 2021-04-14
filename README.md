@@ -1,6 +1,6 @@
-# EinsteinRiddle
-## This is a c++ program for solving the below riddle the cool way(by my standards lol). Try the riddle first without using the code!
-
+This is a compilation of cute puzzles I find online and the solutions I create for them.
+# Riddles
+### c++ solution1 for Einstein's riddle
 1. In a street there are five houses, painted five different colours. 
 2. In each house lives a person of different nationality 
 3. These five homeowners each drink a different kind of beverage, smoke different brand of cigar and keep a different pet. 
