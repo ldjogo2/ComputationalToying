@@ -1,4 +1,5 @@
-This is a compilation of cute puzzles I find online and the solutions I create for them in various languages.
+This is a compilation of things that I am currently working on just for fun! It ranges over a wide variety of topics and will be
+divided up into many differnt subsections including graphics, AI(NLP,ML,Vision,etc.), distributed computing(networking, concurrency, systems, etc.), and algorithms.
 # Riddles
 ### python3 solution1 for Einstein's riddle
 #### I thought it would be fun to use some natural language processing to see if I can create something that is able to store information
