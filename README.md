@@ -1,6 +1,7 @@
 ```
 This is a compilation of things that I am currently working on just for fun! 
 It ranges over a wide variety of topics and will be divided up into many differnt subsections including but not limited to:
+
 - graphics/vision, 
 - AI(NLP,ML,econCS,etc.), 
 - distributed computing(networking, concurrency, systems, etc.), 
