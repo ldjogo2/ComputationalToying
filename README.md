@@ -1,5 +1,6 @@
 ```
 This is a compilation of things that I am currently working on just for fun! 
+I will be working through certain topics and buillding learning resources for those interested in learning said topics.
 It ranges over a wide variety of topics and will be divided up into many differnt subsections including but not limited to:
 
 - graphics/vision, 
@@ -10,4 +11,4 @@ It ranges over a wide variety of topics and will be divided up into many differn
 ```
 
 ##### 5/7/2021
-Semester just ended, I'll be starting a Networking folder where I will document my progress with learning Networking.
+Semester just ended, I'll be starting my leaa Networking folder where I will document my progress with learning Networking.
