@@ -11,4 +11,4 @@ It ranges over a wide variety of topics and will be divided up into many differn
 ```
 
 ##### 5/7/2021
-Semester just ended, I'll be starting my leaa Networking folder where I will document my progress with learning Networking.
+Semester just ended, I'll be starting my learning with Networking(distributed-computing/networking).
