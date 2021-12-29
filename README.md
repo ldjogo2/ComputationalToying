@@ -10,5 +10,5 @@ It ranges over a wide variety of topics and will be divided up into many differn
 - math/algorithms(graph theory, combinatorial optimization, cryptography/crptocurrency, computational geometry, etc.)
 ```
 
-##### 6/22
-Will be doing some toying with concurrency
+##### 12/29/2021
+Started learning concurrency with Go and Networking with C++
