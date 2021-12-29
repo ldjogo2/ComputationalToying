@@ -1,5 +1,5 @@
 ##### 5/7/2021
 
-I will be following the online Stanford course: https://cs144.github.io/
+I will be following Geeks for Geeks Networking, implementing projects for each section I deem worthy in C++ (Or what they recommend)
 
-The book used for the course is Computer Networking: A Top Down Approach(8th edition). I will be using this to suppliment the slides.
+After I finish this Geeks for Geeks adventure, I will create one Flask/Django project and 3 interesting Java Socket Programs
