@@ -12,4 +12,5 @@ It ranges over a wide variety of topics and will be divided up into many differn
 
 ##### 12/29/2021
 Started learning concurrency with Go and Networking with C++
+
 Currently going to focus on dist sys due to nature of job
