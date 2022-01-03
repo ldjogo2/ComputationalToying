@@ -14,3 +14,8 @@ It ranges over a wide variety of topics and will be divided up into many differn
 Started learning concurrency with Go and Networking with C++
 
 Currently going to focus on dist sys due to nature of job
+
+##### 1/2/2022
+The past few days I've been fully focused on studying compression techniques and the nature of compression. At the end of my exploration I will contribute to some open source project or I will look to make my own compression algorithm.
+
+I have been thinking about security a lot and something I will probably explore next will be VPNs and Proxys. I will contribute to some open source as well as figure out how to hide myself from being tracked.
