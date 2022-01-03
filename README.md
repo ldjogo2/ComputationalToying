@@ -21,3 +21,9 @@ Currently going to focus on dist sys due to nature of job
 I'm focusing more on Networking, specifically looking into compression techniques and the nature of compression. At the end of my exploration I will contribute to some open source project or I will look to make my own compression algorithm.
 
 I have been thinking about security and automation for quite a while and I think the next topics I will explore will be these. I will probably explore VPNs/Proxys for security and will write some bash scripts for things I find important. I will contribute to some open source in parallel to playing with said things.
+
+
+### UPCOMING IDEAS
+- VPNs/Proxys
+- Bash scripts for key shortcuts and workspace automation
+- Create an open source application connecting to Google N-grams (Some other dictionary with word frequencies)
