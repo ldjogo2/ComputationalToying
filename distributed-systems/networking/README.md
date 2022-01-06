@@ -7,3 +7,8 @@ After I finish this Geeks for Geeks adventure, I will create one Flask/Django pr
 ## 12/30/21
 
 Learned about all the different types of data compression and when they are used. Code is on my main github.
+
+
+## 1/6/22
+
+Started learning about VPNs and Proxy's. Focusing specifically on Proxy's and setting up my internet to always use a pServer.
