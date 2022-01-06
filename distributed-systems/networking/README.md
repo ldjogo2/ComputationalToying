@@ -12,3 +12,4 @@ Learned about all the different types of data compression and when they are used
 ## 1/6/22
 
 Started learning about VPNs and Proxy's. Focusing specifically on Proxy's and setting up my internet to always use a pServer.
+I need to learn the basics of networking to even have a chance of understanding how this works so I'm going back bois.
